@@ -1,6 +1,8 @@
 style.css
+
 body {
 	background-image: url("dirty_boy.jpg");
+	background-position: center;
 	background-color: lightblue;
 }
 
