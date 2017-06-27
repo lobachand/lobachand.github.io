@@ -1,13 +1,9 @@
-style.css
-
 body {
-	background-image: url("dirty_boy.jpg");
-	background-position: center;
-	background-repeat: repeat;
-	background-color: lightblue; 
+	background-color: #3D4D97;
 }
 
 h1, h2, p {
 	color: gold;
 	text-align: center;
+	font-family: helvetica;
 }
