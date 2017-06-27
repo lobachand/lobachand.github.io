@@ -3,9 +3,11 @@ style.css
 body {
 	background-image: url("dirty_boy.jpg");
 	background-position: center;
-	background-color: lightblue;
+	background-repeat: repeat;
+	background-color: lightblue; 
 }
 
 h1, h2, p {
 	color: gold;
+	text-align: center;
 }
