@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two);
+
+body {
+	background-color: #D7E8E8;
+}
+
+h1 {
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 3em;
+	text-align: center;
+}
+
+h2 {font-family: 'Shadows Into Light Two', cursive;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+p {
+	font-family: 'Times New Roman', normal;
+	font-size: 18px;
+	text-align: center;
+}
+
